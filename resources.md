@@ -1,6 +1,6 @@
 # Resources
 
-**Professional traders to follow:**
+### Professional traders to follow:
 1. [Carmine Rosato](https://www.youtube.com/@carmine_rosato)
     * Professional ES scalper 
     * Pretty much only uses S&D + volume profile + Bookmap
@@ -21,7 +21,7 @@
     * Works alongside many other professional traders in his content
     * Great understanding of options and impact on futures market
 
-**Upcoming newage traders to follow:**
+### Upcoming newage traders to follow:
 1. [BaronTrades](https://www.youtube.com/@BaronTrades)
     * Allrounded trader with experience in lots of strategies using VWAP, IB, Fibonacci etc
     * Utilises a lot statistics and external tools in trading
@@ -38,5 +38,5 @@
     * Posts weekly outlooks
     * Uses volume profile comprehensively
 
-**Secret sauce**
+### Secret sauce
 - [Deepcharts Bootcamp playlist](https://www.youtube.com/watch?v=2Ok-3N_4kIQ&list=PLIFh3YBSbU-jqWoBpBEnrUDcNob6RnJ7J)
