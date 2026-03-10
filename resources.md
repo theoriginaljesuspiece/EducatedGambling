@@ -1,42 +1,22 @@
-# Resources
+# Recommended Resources
 
-### Professional traders to follow:
-1. [Carmine Rosato](https://www.youtube.com/@carmine_rosato)
-    * Professional ES scalper 
-    * Pretty much only uses S&D + volume profile + Bookmap
-    * Heavily focuses on RR and risk management
-2. [Fabio Valentini](https://www.youtube.com/@fabervaaleEng)
-    * Professional aggressive NQ scalper + crypto trader
-    * Insane discretional understanding of market behavior
-    * Main tools are volume profile and big market order indicator
-    * Great macroeconomic understanding
-3. [Tom Vorwald](https://www.youtube.com/@worldclassedge)
-    * Professional NQ scalper but moreso guru
-    * Provides a lot of allrounded indepth content for free
-    * Works mainly with Patrick Nill (professional trade that only uses volume profile)
-    * Has a great outlook on institutional behavior during sessions
-4. [Andrea Cimi](https://www.youtube.com/@AndreaCimi)
-    * Comprehensively studies and teaches market operations
-    * Provides a lot of indepth fundamental knowledge for free
-    * Works alongside many other professional traders in his content
-    * Great understanding of options and impact on futures market
+## Traders to Follow
 
-### Upcoming newage traders to follow:
-1. [BaronTrades](https://www.youtube.com/@BaronTrades)
-    * Allrounded trader with experience in lots of strategies using VWAP, IB, Fibonacci etc
-    * Utilises a lot statistics and external tools in trading
-    * Posts trade reviews almost every session
-    * A great prop rinser
-2. [JeronTrades](https://www.youtube.com/@JeronTrades)
-    * One of BaronTrades mentorship students
-    * Highly focused on order flow trading and a big follower of Fabio Valentini
-    * Focuses on all of Fabio's teachings
-3. [cbrackn](https://www.youtube.com/@cbrackn)
-    * Another order flow trader 
-    * Lots of great trade reviews and recaps
-4. [Rizzo Trades](https://www.youtube.com/@rizzotrades)
-    * Posts weekly outlooks
-    * Uses volume profile comprehensively
+### Professional
+1. **[@carmine_rosato](https://www.youtube.com/@carmine_rosato)** – ES scalper focused on S&D, volume profile, and Bookmap. Strong emphasis on RR and risk management.
+2. **[@fabervaaleEng](https://www.youtube.com/@fabervaaleEng)** – Fabio Valentini, aggressive NQ scalper with deep discretional market intuition. Uses volume profile and big market order indicators. He also has an Italian channel with more resources.
+3. **[@worldclassedge](https://www.youtube.com/@worldclassedge)** – Tom Vorwald, NQ scalper and educator offering well-rounded free content. Collaborates with Patrick Nill; strong on institutional session behavior.
+4. **[@AndreaCimi](https://www.youtube.com/@AndreaCimi)** – Andrea Cimi,teaches market operations fundamentals. Works with many pro traders and has strong options/futures insight.
+5. **[@TheFlowHorse](https://www.youtube.com/@TheFlowHorse)** - Ryan, provides an indepth free order flow playlist and does a lot of crypto trading using order flow mechanics. Also provides important contextual analysis of the current market.
 
-### Secret sauce
-- [Deepcharts Bootcamp playlist](https://www.youtube.com/watch?v=2Ok-3N_4kIQ&list=PLIFh3YBSbU-jqWoBpBEnrUDcNob6RnJ7J)
+### Emerging
+1. **[@BaronTrades](https://www.youtube.com/@BaronTrades)** – Stats-driven trader using VWAP, IB, Fibonacci and external tools. Posts near-daily session reviews.
+2. **[@JeronTrades](https://www.youtube.com/@JeronTrades)** – BaronTrades mentee; heavily focused on order flow and Fabio Valentini's methodology.
+3. **[@cbrackn](https://www.youtube.com/@cbrackn)** – Order flow trader with solid trade reviews and recaps.
+4. **[@rizzotrades](https://www.youtube.com/@rizzotrades)** – Weekly outlooks with comprehensive volume profile analysis.
+
+## Playlists & Courses
+- **[TheFlowHorse - Order Flow and Market Profile Course](https://www.youtube.com/playlist?list=PLW-zja9ufsdjEntkQNd0Y9ZqU503M9Xm_)** - Covers pretty much everything you will need as an order flow trader.
+- **[Pavlovic - Fabio Valentini Deepcharts Bootcamp](https://www.youtube.com/watch?v=2Ok-3N_4kIQ&list=PLIFh3YBSbU-jqWoBpBEnrUDcNob6RnJ7J)** – Goes through what was tought in Fabio Valentini's exclusive Deepcharts bootcamp.
+- **[CarmineRosato - OrderFlow Series](https://www.youtube.com/playlist?list=PLWQioWs8oOiFKQnwIIYbw8N7ks7d-UAPQ)** - Indepth order flow series covering how Carmine utilises order flow to trade.
+- **[AndreaCimi - Complete Orderflow Trading Course](https://www.youtube.com/playlist?list=PLBVwIU37953qr7DBLMJVXqcaVrJAaQy3D)** - Fundamentals of understanding order flow trading.
